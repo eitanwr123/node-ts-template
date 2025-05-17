@@ -1,0 +1,5 @@
+# יצירת פרויקט חדש מהתבנית שלי
+degit eitanwr123/node-ts-template my-new-project
+cd my-new-project
+npm install
+npm run dev
